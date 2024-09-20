@@ -230,6 +230,11 @@ Cherry-picking allows you to apply a specific commit from one branch into anothe
 - **Pull frequently** to keep your branch up-to-date with changes from the remote repository.
 - **Use descriptive branch names**, such as `feature/add-user-login` or `bugfix/fix-null-pointer`.
 - **Keep branches small and focused** on a specific feature or issue to avoid complex merges.
+- **Write meaningful commit messages** that explain the "why" behind the changes, not just the "what."
+- **Review your changes** before committing to ensure quality and relevance.
+- **Use tags** to mark release points in your project history for easier navigation.
+- **Avoid committing sensitive information** such as passwords or API keys.
+- **Regularly clean up stale branches** to maintain a tidy repository and avoid confusion.
 
 ---
 
